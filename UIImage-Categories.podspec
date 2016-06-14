@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   
   s.description  = <<-DESC
                    a Magic UIImage Repo
-
+                   DESC
   s.homepage     = "https://github.com/Bupterambition/UIImage-Categories"
 
   s.license      = { :type => 'MIT', :text => <<-ENDOFEXT
